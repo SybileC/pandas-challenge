@@ -1,0 +1,6 @@
+SYBILE CHERENFANT
+HEROES OF PYMOLI ANALYSIS
+The three trends observed based on the data for the fantasy game, Heroes of Pymoli, are:
+1.	The largest group of users, which make up 44.79% of players, is between the age of 20 and 24. The second largest group of players is between the age of 15 and 19 and makes up 18.58%, while the third largest group is between 25 and 29  and makes up 13.37% of players. To sum it up, the bulk of Heroes of Pymoli’s users is between the age of 15 and 29 (mostly Generation Z and a few millennials). However, the biggest spenders are those under the age of 10 and those between 30 and 39.
+2.	Users who identify as Male make up 84.03 % of players and about 83% of the game’s revenue. Meanwhile those who identify as other/non-disclosed spend the most on average. Female users also spend more than male users on average.
+3.	Only one user purchased a total of 5 items. The remaining top 5 users purchased between 3 and 4 items. Most users purchase 1 item on average. 
